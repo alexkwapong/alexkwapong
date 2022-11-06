@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/adumalex
 [instagram]: https://www.instagram.com/lexus3215
-[linkedin]: https://linkedin.com/in/AlexAdum-Kwapong
+[linkedin]: https://linkedin.com/in/alex-adum-kwapong-b4707a256
