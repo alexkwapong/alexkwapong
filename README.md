@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 <ul style="list-style-type: disc;">
-    <li>Information Technology Projects:</li>
+    <li>:</li>
 </ul>
 <ul style="list-style-type: circle;">
     <li>osTicket (Help Desk Ticketing System)</li>
