@@ -1,8 +1,8 @@
 <h1>Hi, I'm Alex, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-<ul style="list-style-type: disc;">
-    <li>:</li>
+
+    
 </ul>
 <ul style="list-style-type: circle;">
     <li>osTicket (Help Desk Ticketing System)</li>
