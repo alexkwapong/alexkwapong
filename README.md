@@ -1,4 +1,6 @@
-<p>Hi, My name is Alex, an IT Professional&nbsp;</p>
+<h1>Hi, I'm Alex, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
 <ul style="list-style-type: disc;">
     <li>Information Technology Projects:</li>
 </ul>
